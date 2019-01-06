@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "db": "mongodb://localhost/todo-backend",
+  "port": "3900",
+  "requiresAuth": true
+}
